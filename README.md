@@ -2,9 +2,8 @@
 
 ## Guideline
 
-- React Native Expo Introduction
+- (Done) React Native Expo Introduction
 - Hello World in React Native Expo + Folder Structure Explained
-
 - Router
 - Login & Sign-up UI
 - State Management & Lifecycle Methods
