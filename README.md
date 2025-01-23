@@ -15,6 +15,20 @@
 - How to Set Splash Screen, App Icon, & Change Fonts
 - How to Use Blur View
 
+## Initial Command
+
+Create a new project:
+
+```bash
+npx create-expo-app@latest
+```
+
+Run the project:
+
+```bash
+npx expo start
+```
+
 ## Youtube
 
 https://www.youtube.com/playlist?list=PLafkKTUDps_7hlj7yRR0LP-fhwo_X-AYw
