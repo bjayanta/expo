@@ -3,7 +3,7 @@
 ## Guideline
 
 - (Done) React Native Expo Introduction
-- Hello World in React Native Expo + Folder Structure Explained
+- (Done) Hello World in React Native Expo + Folder Structure Explained
 - Router
 - Login & Sign-up UI
 - State Management & Lifecycle Methods
@@ -26,6 +26,12 @@ Run the project:
 
 ```bash
 npx expo start
+```
+
+Reset the project:
+
+```bash
+npm run reset-project
 ```
 
 ## Youtube
