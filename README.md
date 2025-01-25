@@ -4,7 +4,10 @@
 
 - (Done) React Native Expo Introduction
 - (Done) Hello World in React Native Expo + Folder Structure Explained
-- Router
+- (Done) Router
+  - Stack navigation
+  - Drawer navigation + Custom Header and Footer
+  - Bottom/Tab navigation
 - Login & Sign-up UI
 - State Management & Lifecycle Methods
 - FlatList, ScrollView & map Method
@@ -33,6 +36,14 @@ Reset the project:
 ```bash
 npm run reset-project
 ```
+
+## Icons
+
+https://oblador.github.io/react-native-vector-icons/
+
+## Add header and footer into drawer navigation
+
+https://www.youtube.com/watch?v=_3VmlLYz208
 
 ## Youtube
 

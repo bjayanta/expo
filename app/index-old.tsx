@@ -1,3 +1,4 @@
+import { Link } from "expo-router";
 import { Text, View } from "react-native";
 
 export default function Index() {
@@ -19,6 +20,8 @@ export default function Index() {
       >
         Hello Welcome to Oporishim.
       </Text>
+
+      <Link href="/about">Go to About</Link>
     </View>
   );
 }
