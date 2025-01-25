@@ -8,7 +8,10 @@
   - Stack navigation
   - Drawer navigation + Custom Header and Footer
   - Bottom/Tab navigation
-- Login & Sign-up UI
+- (Done) Login & Sign-up UI
+  - Image
+  - Style
+  - Button + Custom buttom
 - State Management & Lifecycle Methods
 - FlatList, ScrollView & map Method
 - Complete Leader Board UI Design
