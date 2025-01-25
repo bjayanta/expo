@@ -15,7 +15,7 @@ export default function Index() {
   };
 
   return (
-    <View>
+    <View style={{ gap: 10, paddingHorizontal: 16 }}>
       <Text>Hello Welcome to Oporishim.</Text>
       <PrimaryButton title="Login" onPress={onLogin} />
       <PrimaryButton title="Register" onPress={onRegister} />

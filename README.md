@@ -11,8 +11,8 @@
 - (Done) Login & Sign-up UI
   - Image
   - Style
-  - Button + Custom buttom
-- State Management & Lifecycle Methods
+  - Button + Custom button
+- (Done) State Management & Lifecycle Methods
 - FlatList, ScrollView & map Method
 - Complete Leader Board UI Design
 - Modal

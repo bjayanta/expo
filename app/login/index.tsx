@@ -1,13 +1,19 @@
 import { View, Text, Image, TextInput } from "react-native";
-import React from "react";
+import React, { useState } from "react";
 import PrimaryButton from "@/components/PrimaryButton";
 import { useRouter } from "expo-router";
 
 const Login = () => {
   const router = useRouter();
 
+  const [data, setData] = useState<any>({
+    email: "",
+    password: "",
+  });
+
   const onLogin = () => {
-    router.back();
+    console.log("Data: ", data);
+    // router.back();
   };
 
   const onHome = () => {
@@ -33,7 +39,10 @@ const Login = () => {
             height: 50,
             borderRadius: 8,
           }}
-          onChangeText={(e) => console.log(e)}
+          inputMode="email"
+          onChangeText={(e: string) =>
+            setData((prev: any) => ({ ...prev, email: e }))
+          }
         />
 
         <TextInput
@@ -45,7 +54,9 @@ const Login = () => {
             borderRadius: 8,
           }}
           secureTextEntry={true}
-          onChangeText={(e) => console.log(e)}
+          onChangeText={(e: string) =>
+            setData((prev: any) => ({ ...prev, password: e }))
+          }
         />
 
         <PrimaryButton title="Login" onPress={onLogin} />
