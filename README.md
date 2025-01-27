@@ -50,4 +50,4 @@ https://www.youtube.com/watch?v=_3VmlLYz208
 
 ## Youtube
 
-https://www.youtube.com/playlist?list=PLafkKTUDps_7hlj7yRR0LP-fhwo_X-AYw
+https://www.youtube.com/watch?v=tDWfYiJk3ro&list=PLafkKTUDps_7hlj7yRR0LP-fhwo_X-AYw&index=7
