@@ -1,6 +1,6 @@
 import PrimaryButton from "@/components/PrimaryButton";
 import { useRouter } from "expo-router";
-import { Text, View } from "react-native";
+import { SafeAreaView, Text, View } from "react-native";
 
 export default function Index() {
   const router = useRouter();

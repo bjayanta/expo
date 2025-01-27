@@ -1,4 +1,4 @@
-import { View, Text, Image, TextInput } from "react-native";
+import { View, Text, Image, TextInput, ScrollView } from "react-native";
 import React, { useState } from "react";
 import PrimaryButton from "@/components/PrimaryButton";
 import { useRouter } from "expo-router";
@@ -21,7 +21,7 @@ const Login = () => {
   };
 
   return (
-    <View>
+    <ScrollView>
       <Text>Login</Text>
 
       <Image
@@ -62,7 +62,7 @@ const Login = () => {
         <PrimaryButton title="Login" onPress={onLogin} />
         <PrimaryButton title="Home" onPress={onHome} />
       </View>
-    </View>
+    </ScrollView>
   );
 };
 

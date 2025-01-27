@@ -13,7 +13,7 @@
   - Style
   - Button + Custom button
 - (Done) State Management & Lifecycle Methods
-- FlatList, ScrollView & map Method
+- (Done) FlatList, ScrollView & map Method
 - Complete Leader Board UI Design
 - Modal
 - How to Use Tailwind CSS

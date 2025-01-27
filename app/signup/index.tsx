@@ -1,4 +1,4 @@
-import { View, Text, Image, TextInput } from "react-native";
+import { View, Text, Image, TextInput, ScrollView } from "react-native";
 import React from "react";
 import { useRouter } from "expo-router";
 import PrimaryButton from "@/components/PrimaryButton";
@@ -11,7 +11,10 @@ const SignUp = () => {
   };
 
   return (
-    <View>
+    <ScrollView
+      showsVerticalScrollIndicator={false}
+      contentContainerStyle={{ marginTop: 40 }}
+    >
       <Text>Sign Up</Text>
 
       <Image
@@ -69,7 +72,7 @@ const SignUp = () => {
 
         <PrimaryButton title="Register" onPress={onRegister} />
       </View>
-    </View>
+    </ScrollView>
   );
 };
 
