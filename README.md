@@ -17,7 +17,7 @@
 - (Done) Complete Leader Board UI Design
 - (Done) Modal
   - React Native Modal
-- How to Use Tailwind CSS
+- (Done) How to Use Tailwind CSS
 - How to Set Splash Screen, App Icon, & Change Fonts
 - How to Use Blur View
 
@@ -40,6 +40,10 @@ Reset the project:
 ```bash
 npm run reset-project
 ```
+
+# Tailwind CSS
+
+https://www.nativewind.dev/getting-started/expo-router
 
 # Modal
 
