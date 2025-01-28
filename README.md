@@ -14,8 +14,9 @@
   - Button + Custom button
 - (Done) State Management & Lifecycle Methods
 - (Done) FlatList, ScrollView & map Method
-- Complete Leader Board UI Design
+- (Done) Complete Leader Board UI Design
 - Modal
+  - React Native Modal
 - How to Use Tailwind CSS
 - How to Set Splash Screen, App Icon, & Change Fonts
 - How to Use Blur View
@@ -40,6 +41,10 @@ Reset the project:
 npm run reset-project
 ```
 
+# Modal
+
+https://www.npmjs.com/package/react-native-modal
+
 ## Icons
 
 https://oblador.github.io/react-native-vector-icons/
@@ -50,4 +55,4 @@ https://www.youtube.com/watch?v=_3VmlLYz208
 
 ## Youtube
 
-https://www.youtube.com/watch?v=tDWfYiJk3ro&list=PLafkKTUDps_7hlj7yRR0LP-fhwo_X-AYw&index=7
+https://www.youtube.com/watch?v=Y7XnNBmlaDE&list=PLafkKTUDps_7hlj7yRR0LP-fhwo_X-AYw&index=8
