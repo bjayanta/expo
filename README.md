@@ -15,7 +15,7 @@
 - (Done) State Management & Lifecycle Methods
 - (Done) FlatList, ScrollView & map Method
 - (Done) Complete Leader Board UI Design
-- Modal
+- (Done) Modal
   - React Native Modal
 - How to Use Tailwind CSS
 - How to Set Splash Screen, App Icon, & Change Fonts
